@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pankaj Kumar</h1>
 <h3 align="center">A passionate Software developer</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/Right_Side.gif" />
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/Right_Side.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=14pankajkumar&label=Profile%20views&color=0e75b6&style=flat" alt="14pankajkumar" /> </p>
 
