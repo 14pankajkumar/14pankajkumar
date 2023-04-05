@@ -251,16 +251,16 @@ I am happy to help!. - 📄 Know about my experiences
       width="40"
       height="40"
     />
-    
-      <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
-        <img
-          src="https://docs.amplify.aws/assets/logo-dark.svg"
-          alt="amplify"
-          width="40"
-          height="40"
-        />
-      </a>
+  </a>
 
+  <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
+    <img
+      src="https://docs.amplify.aws/assets/logo-dark.svg"
+      alt="amplify"
+      width="40"
+      height="40"
+    />
+  </a>
 
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
     <img
@@ -323,7 +323,7 @@ I am happy to help!. - 📄 Know about my experiences
       height="40"
     />
   </a>
- 
+
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -332,7 +332,7 @@ I am happy to help!. - 📄 Know about my experiences
       height="40"
     />
   </a>
-  
+
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
@@ -341,7 +341,6 @@ I am happy to help!. - 📄 Know about my experiences
       height="40"
     />
   </a>
- 
 </p>
 
 <p>
