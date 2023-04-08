@@ -345,6 +345,9 @@ web3 or web2.
   </a>
 </p>
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/kumarpankaj"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kumarpankaj" /></a></p><br><br>
+
 <p>
   <img
     align="left"
