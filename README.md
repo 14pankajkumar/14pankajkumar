@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pankaj Kumar</h1>
-<h3 align="center">A passionate Software developer</h3>
+<h3 align="center">A Full-Stack Software developer</h3>
 <img
   align="right"
   alt="Coding"
