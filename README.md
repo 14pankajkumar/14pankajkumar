@@ -28,8 +28,7 @@ web3 or web2.
 - 🌱 I’m currently learning **Java, DSA** 
 - 📫 Contact me: **pankajkumardas727@gmail.com** 
 - 💬 Ask me about javascript, react, and nodejs! I am happy to help!. 
-- 📄 Know about my experiences:
-[https://drive.google.com/file/d/130F4YlktFgR6nqYyGy5IiUk1Ziyxw8vG/view?usp=sharing](https://drive.google.com/file/d/130F4YlktFgR6nqYyGy5IiUk1Ziyxw8vG/view?usp=sharing)
+- 📄 Know about my experiences: https://bit.ly/40ZgQCi
 - ⚡ Fun fact **I don't like coffee🥲**
 
 <h3 align="left">Connect with me:</h3>
