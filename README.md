@@ -25,7 +25,7 @@
 - 🔭 I’m currently working as a Full-Stack Software Developer 
 - 👯 I’m looking to collaborate on - Any Open Source Project involving Full-Stack developement in
 web3 or web2. 
-- 🌱 I’m currently learning **Java, DSA** 
+- 🌱 I’m currently learning **DSA** 
 - 📫 Contact me: **pankajkumardas727@gmail.com** 
 - 💬 Ask me about javascript, react, and nodejs! I am happy to help!. 
 - 📄 Know about my experiences: https://bit.ly/3KtnmdB
