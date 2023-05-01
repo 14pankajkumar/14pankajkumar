@@ -22,7 +22,7 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working as a Full-Stack Software Developer @<a href="https://www.creatorconsole.com/">CreateProtocol</a>
+- 🔭 I’m currently working as a Full-Stack Software Developer @<a href="https://www.creatorconsole.com/" target="_blank">CreateProtocol</a>
 - 👯 I’m looking to collaborate on - Any Open Source Project involving Full-Stack developement in
 web3 or web2. 
 - 🌱 I’m currently learning **DSA** 
